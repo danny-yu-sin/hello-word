@@ -3,6 +3,6 @@ node_modules/
 
 z.*
 
-*.env
+.env
 
-artifacts/
+/artifacts/
